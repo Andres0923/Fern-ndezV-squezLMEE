@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+#imagen1{
+  margin-left: 4%;
+}
+#ti1{
+    font-size: 20px;
+    margin-top: 4%;
+    margin-left: 11.5%;
+    font-family: sans-serif;
+}
+#tig{
+  
+    margin-left: 45%;
+    font-family: sans-serif;
+}
+#text1{
+    margin-left: 11.5%;
+    font-family: sans-serif;
+}
+#divisiongg{
+    display: block;
+    margin-left: 30%;
+    margin-top: -17%;
+    
+}
+#tialbum{
+    margin-left: 35%;
+}
+#divison1{
+    margin-top: 10%;
+}
+#ti2{
+    margin-left: 2.5%;
+}
+#sec2{
+    margin-left: 32%;
+    margin-top: -22%;
+}
+#sec3{
+    margin-left:65%;
+    margin-top: -15.5%;
+}
+footer{
+    background-image: url(../img/footer.jpg);
+    background-size: 1000px;
+    height: 178px;
+    margin-top: 12%;
+}
+#footer{
+    display: inline-block;
+    margin-left: 25%;
+    margin-top: 6%;
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+}
+#footer2{
+    display: inline-block;
+    margin-left: 25%;
+    margin-top: 1%;
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+}
+#imagen1:hover{
+    filter:opacity(.5);
+}
+#imagen2:hover{
+    filter:opacity(.5);
+}
+#imagen3:hover{
+    filter:opacity(.5);
+}
+#imagen4:hover{
+    filter:opacity(.5);
+}
+#imagen5:hover{
+    filter:opacity(.5);
+}
+#tialbum{
+    font-family: sans-serif;
+  
+}
+#ti2{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#t3{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#t4{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#tig{
+    margin-top: 3%;
+}
